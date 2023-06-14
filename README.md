@@ -6,7 +6,7 @@ IMPORTANT: No tot el que hi ha en aquest repositori es publica automàticament e
 
 (continguts)
 
-## ¿Qué és WordPress Catalunya?
+## Qué és WordPress Catalunya?
 
 La comunitat de WordPress Catalunya és un grup de persones que col·laboren en el desenvolupament de Wordpress.org, organitzem la documentació estàndard d'aquest programari per als usuaris de parla catalana.
 
@@ -18,14 +18,14 @@ Aquest manual recull els diferents manuals i documents existents que ha generat 
 
 Aquest manual té dos objectius actualment, millorar el procés, la quantitat i la qualitat de les traduccions i tenir la documentació del WordPress en català.
 
-### Objetius de traducció
+### Objectius de traducció
 
 - [ ] Fase 1: Completar Top 10 extensions (dev trunk)
 - [ ] Fase 2: Completar Top 10 temes (dev trunk)
 - [ ] Fase 3: Completar Top 10 temes (dev readme trunk)
 - [ ] Fase 4: Completar Top 10 temes (dev readme trunk)
 
-### Objetius de documentació
+### Objectius de documentació
 
 - [ ] Objectiu 1
 - [ ] Objectiu 2
