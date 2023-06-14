@@ -6,9 +6,9 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 
 ### Passos per començar a traduir el WordPress al català:
 
- - Crear un [compte d'usuari a WordPress.org](https://login.wordpress.org/register?locale=ca).
- - Accedir a la [secció de traduccions](https://translate.wordpress.org/locale/ca/default/).
- - Seleccionar un projecte i començar a traduir.
+1. Crear un [compte d'usuari a WordPress.org](https://login.wordpress.org/register?locale=ca).
+2. Accedir a la [secció de traduccions](https://translate.wordpress.org/locale/ca/default/).
+3. Seleccionar un projecte i començar a traduir.
 
 ### Guia d’estil
 
@@ -23,3 +23,25 @@ Quan no estem segurs de quina seria exactament la traducció d'una paraula, pode
 Aquesta eina ens permet buscar una paraula i veure quin històric de traduccions té per a diferents projectes de traducció. D'aquesta manera podem veure com altres traductors han traduït aquesta paraula. Aquesta cerca pot ser general o específica per al WordPress.
 
 Per exemple, si no estem segurs de quina seria la traducció de "cookies" al català, podem utilitzar aquest cercador per veure com ha estat traduïda en altres projectes de traducció. En aquest cas, la cerca ens mostrarà clarament que en tots els projectes de traducció s'està utilitzant la paraula "galetes" com a traducció de "cookies".
+
+## Errors freqüents en les traduccions
+
+Aquí anirem publicant errors comuns perquè aquells que comencen a traduir pugui fer-ho de manera més eficient, i sense veure com els rebutgen la majoria de les traduccions aportades.
+
+Un dels errors principals en les traduccions del WordPress al català és no seguir la guia d'estil.
+
+### Exemples d'errors freqüents:
+
+Dirigir-se de forma incorrecta a "la màquina". Per dirigir-nos a "la màquina" farem ús de l'imperatiu, en lloc de l'indicatiu.
+
+Cadena a traduir: Send Usage Data
+
+- Incorrecte: Enviar dades d’ús
+- Correcte: Envia dades d’ús
+
+Dirigir-se de forma incorrecta a l'usuari. Per dirigir-nos a usuari farem ús de vós en comptes de tu.
+
+Cadena a traduir: If you are unsure what this does, leave it disabled.
+
+- Incorrecte: Si no estàs segur del que estàs fent, deixa-ho desactivat.
+- Correcte: Si no esteu segur del que esteu fent, deixeu-ho desactivat.
