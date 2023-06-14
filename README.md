@@ -16,7 +16,21 @@ Aquest manual recull els diferents manuals i documents existents que ha generat 
 
 ## Objectius del manual
 
-Aquest manual està pensat per dur a terme dos grans objectius, millorar el procés de traduccions i millorar la documentació del WordPress en català.
+Aquest manual té dos objectius actualment, millorar el procés, la quantitat i la qualitat de les traduccions i tenir la documentació del WordPress en català.
+
+### Objetius de traducció
+
+- [ ] Fase 1: Completar Top 10 extensions (dev trunk)
+- [ ] Fase 2: Completar Top 10 temes (dev trunk)
+- [ ] Fase 3: Completar Top 10 temes (dev readme trunk)
+- [ ] Fase 4: Completar Top 10 temes (dev readme trunk)
+
+### Objetius de documentació
+
+- [ ] Objectiu 1
+- [ ] Objectiu 2
+- [ ] Objectiu 3
+- [ ] Objectiu 4
 
 ## Col·laborar a la comunitat catalana del WordPress
 
