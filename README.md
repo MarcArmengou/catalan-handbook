@@ -27,10 +27,11 @@ Aquest manual té dos objectius actualment, millorar el procés, la quantitat i 
 
 ### Objectius de documentació
 
-- [ ] Objectiu 1
-- [ ] Objectiu 2
-- [ ] Objectiu 3
-- [ ] Objectiu 4
+- [ ] Fase 1: Crear una estructura inicial per entendre la categorització.
+- [ ] Fase 2: Crear fitxers buits i enllçat intern.
+- [ ] Fase 3: Afegir el contingut (fent copia literal del contingut original i creant l'estructura del contingut).
+- [ ] Fase 4: Publicar una primera versió de la documentació en català.
+- [ ] Fase 5: Comprovació i millora del contingut.
 
 ## Col·laborar a la comunitat catalana del WordPress
 
