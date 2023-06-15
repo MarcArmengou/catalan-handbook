@@ -11,7 +11,7 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 3. Seleccionar un projecte i començar a traduir.
 
 > **Avís important**
-> Un projecte de traducció (p. ex el [Jetpack](https://translate.wordpress.org/locale/ca/default/wp-plugins/jetpack/))està format per dos conjunts, les verisons estables i les versions en desenvolupament. A l'hora de traduir, només traduirem les versions en desenvolupament, anomenades "Development (trunk)" i "Development Readme (trunk)". No traduirem "Stable (latest release)" ni "Stable Readme (latest release)".
+> Un projecte de traducció (p. ex el [Jetpack](https://translate.wordpress.org/locale/ca/default/wp-plugins/jetpack/)) està format per dos conjunts, les versions estables i les versions en desenvolupament. A l'hora de traduir, només traduirem les versions en desenvolupament, anomenades "Development (trunk)" i "Development Readme (trunk)". No traduirem "Stable (latest release)" ni "Stable Readme (latest release)".
 
 ### Guia d’estil
 
