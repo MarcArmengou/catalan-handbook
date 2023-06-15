@@ -17,7 +17,7 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 
 La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà per a les seves traduccions de programari. Això vol dir que totes les persones que traduïm continguts del WordPress al català ens basem en aquesta guia d'estil perquè les traduccions siguin consistents i coherents, dins del propi WordPress com amb altres traduccions de programari de llengua catalana.
 
-[Guia d’estil de Softcatalà](https://www.softcatala.org/guia-estil-de-softcatala/)
+- [Guia d’estil de Softcatalà](https://www.softcatala.org/guia-estil-de-softcatala/)
 
 ## Recursos de traducció
 
