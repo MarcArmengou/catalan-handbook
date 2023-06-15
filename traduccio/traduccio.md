@@ -37,7 +37,7 @@ Un dels errors principals en les traduccions del WordPress al català és no seg
 
 Dirigir-se de forma incorrecta a "la màquina". Per dirigir-nos a "la màquina" farem ús de l'imperatiu, en lloc de l'indicatiu.
 
-``Cadena a traduir: Send Usage Data``
+Cadena a traduir: Send Usage Data
 
 - Incorrecte: Enviar dades d’ús
 - Correcte: Envia dades d’ús
