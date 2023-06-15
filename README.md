@@ -49,6 +49,6 @@ Qualsevol persona que ho vulgui pot enviar les seves traduccions de cadenes de t
   
 Les traduccions realitzades passaran per un procés de revisió i validació abans de passar a formar part del WordPress.
 
-- [Més informació sobre com col·laborar en les traduccions](https://github.com/wpcatalunya/manual/blob/main/traduccio/index.md).
+- [Més informació sobre com col·laborar en les traduccions](https://github.com/wpcatalunya/manual/blob/main/traduccio.md).
 
 ### Com col·laborar en la documentació del WordPress?
