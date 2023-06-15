@@ -10,6 +10,9 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 2. Accedir a la [secció de traduccions](https://translate.wordpress.org/locale/ca/default/).
 3. Seleccionar un projecte i començar a traduir.
 
+> **Avís important**
+> Un projecte de traducció (p. ex el [Jetpack](https://translate.wordpress.org/locale/ca/default/wp-plugins/jetpack/))està format per dos conjunts, les verisons estables i les versions en desenvolupament. A l'hora de traduir, només traduirem les versions en desenvolupament, anomenades "Development (trunk)" i "Development Readme (trunk)". No traduirem "Stable (latest release)" ni "Stable Readme (latest release)".
+
 ### Guia d’estil
 
 La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà per a les seves traduccions de programari. Això vol dir que totes les persones que traduïm continguts del WordPress al català ens basem en aquesta guia d'estil perquè les traduccions siguin consistents i coherents, dins del propi WordPress com amb altres traduccions de programari de llengua catalana.
