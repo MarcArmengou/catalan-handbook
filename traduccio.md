@@ -33,7 +33,7 @@ Aquesta eina ens permet cercar  una paraula i veure quin històric de traduccion
 
 Per exemple, si no estem segurs de quina seria la traducció de "cookies" al català, podem utilitzar aquest cercador per veure com ha estat traduïda en altres projectes de traducció. En aquest cas, la cerca ens mostrarà clarament que en tots els projectes de traducció s'està utilitzant la paraula "galetes" com a traducció de "cookies".
 
-## Errors freqüents en les traduccions
+## Errors freqüents en la traducció
 
 Aquí anirem publicant errors comuns perquè aquells que comencen a traduir pugui fer-ho de manera més eficient, i sense veure com els rebutgen la majoria de les traduccions aportades.
 
