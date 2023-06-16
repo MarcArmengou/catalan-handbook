@@ -13,6 +13,12 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 > **Avís important**
 > Un projecte de traducció (p. ex el [Jetpack](https://translate.wordpress.org/locale/ca/default/wp-plugins/jetpack/)) està format per dos conjunts, les versions estables i les versions en desenvolupament. A l'hora de traduir, només traduirem les versions en desenvolupament, anomenades "Development (trunk)" i "Development Readme (trunk)". No traduirem "Stable (latest release)" ni "Stable Readme (latest release)".
 
+## Activar notificacions dels revisors
+
+Quan fem traduccions que no segueixen la guia d'estil o contenen errors diversos, els revisors i validades ens ho poden notificar perquè puguem corregir l'error a la traducció i memoritzar-ho per a futures traduccions.
+
+La manera de rebre aquestes notificacions és accedir a l'URL https://translate.wordpress.org/settings/ i seleccionar la casella "I want to receive notifications of discussions:". Les notificacions ens arribaran al compte de correu del nostre usuari de WordPress.org.
+
 ### Guia d’estil
 
 La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà per a les seves traduccions de programari. Això vol dir que totes les persones que traduïm continguts del WordPress al català ens basem en aquesta guia d'estil perquè les traduccions siguin consistents i coherents, dins del propi WordPress com amb altres traduccions de programari de llengua catalana.
