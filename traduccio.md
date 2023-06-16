@@ -35,14 +35,14 @@ Un dels errors principals en les traduccions del WordPress al català és no seg
 
 ### Exemples d'errors freqüents:
 
-Dirigir-se de forma incorrecta a "la màquina". Per dirigir-nos a "la màquina" farem ús de l'imperatiu, en lloc de l'indicatiu.
+Dirigir-se de forma incorrecta a "la màquina". Per dirigir-nos a "l'ordinador" farem ús de l'imperatiu, en lloc de l'indicatiu. Per exemple:
 
 Cadena a traduir: Send Usage Data
 
 - Incorrecte: Enviar dades d’ús
 - Correcte: Envia dades d’ús
 
-Dirigir-se de forma incorrecta a l'usuari. Per dirigir-nos a usuari farem ús de vós en comptes de tu.
+Dirigir-se de forma incorrecta a l'usuari. Per dirigir-nos a usuari farem ús de vós en comptes de tu. Per exemple:
 
 Cadena a traduir: If you are unsure what this does, leave it disabled.
 
