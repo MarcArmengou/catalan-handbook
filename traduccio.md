@@ -1,6 +1,6 @@
 # Manual de traducció del WordPress al català
 
-## Com col·laborar en les traduccions del WordPress?
+## Com col·laborar en la traducció del WordPress?
 
 Tant el programari del WordPress, com les extensions, temes, patrons i el lloc web de la comunitat catalana del WordPress es tradueix dins la pròpia web de WordPress.org, fent ús d'una eina de traducció interna, intuïtiva i fàcil d'utilitzar.
 
