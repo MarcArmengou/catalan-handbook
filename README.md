@@ -52,3 +52,8 @@ Les traduccions realitzades passaran per un procés de revisió i validació aba
 - [Més informació sobre com col·laborar en les traduccions](https://github.com/wpcatalunya/manual/blob/main/traduccio.md).
 
 ### Com col·laborar en la documentació del WordPress?
+
+El procés de documentar WordPress al català també consisteix en un procés de traducció de la informació original, que està escrita en anglès. Però separar-ho de traducció ens permet diferenciar la traducció del programari del WordPress, temes, extensions, etc, de l'estructuració, traducció i adaptació de la documentació del WordPress.
+
+- [Més informació sobre com col·laborar en la documentació](https://github.com/wpcatalunya/manual/blob/main/documentacio.md).
+
