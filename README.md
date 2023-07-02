@@ -26,10 +26,8 @@ Aquest manual té dos objectius actualment, millorar el procés, la quantitat i 
 
 ### Objectius de traducció
 
-- [ ] Fase 1: Completar Top 10 extensions (dev trunk)
+- [x] Fase 1: Completar Top 10 extensions (dev trunk)
 - [ ] Fase 2: Completar Top 10 temes (dev trunk)
-- [ ] Fase 3: Completar Top 10 temes (dev readme trunk)
-- [ ] Fase 4: Completar Top 10 temes (dev readme trunk)
 
 ### Objectius de documentació
 
